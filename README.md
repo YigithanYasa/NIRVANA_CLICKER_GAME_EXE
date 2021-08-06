@@ -3,6 +3,8 @@
 
 A clicker game that i made by using Java Swing. /  Current version of the game is V1.0 /
 
+Note: You need at least Java 1.4.0 to run it.
+
 ---New Version---
 
 -> Added "boosting system".
