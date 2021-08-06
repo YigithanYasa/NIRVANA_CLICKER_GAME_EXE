@@ -8,6 +8,7 @@ A clicker game that i made by using Java Swing. /  Current version of the game i
 -> Added "boosting system".
    - Now your only way of proggression is not "Prestige", you can use boosters to get the same effect.
    - Because of the new addition, now you can combine prestige and boosters to use different techniques that makes you profit more.
+
 -> Added sound effects.
 
 -> Fized few bugs
